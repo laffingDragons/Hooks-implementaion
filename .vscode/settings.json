@@ -1,0 +1,27 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#e7afe8",
+        "activityBar.activeBorder": "#7c7a24",
+        "activityBar.background": "#e7afe8",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#3e09ea",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "sash.hoverBorder": "#e7afe8",
+        "statusBar.background": "#db87dd",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#cf5fd2",
+        "statusBarItem.remoteBackground": "#db87dd",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#db87dd",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#db87dd99",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "peacock.color": "#db87dd"
+}
